@@ -88,6 +88,23 @@
       "profile_pic": "https://thumbnails.texastribune.org/HC4iZo8yPsbVf_ud-DGSm_ntcns=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/files/216c8fedb9f37b011cc98780a849aa0a/Welcome_to_Texas_Famartin_Wiki.jpgg"
     } 
 
+  ],
+
+
+  "pictures": [
+
+    {
+      "id": 1,
+      "albumId": 1,
+      "profile_pic": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=0.672xw:1.00xh;0.166xw,0&resize=640:*"
+    },
+
+    {
+      "id": 2,
+      "albumId": 1,
+      "profile_pic": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg"
+    }
+
   ]
   
 }

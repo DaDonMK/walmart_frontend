@@ -4,8 +4,8 @@
       "username": "alex8020",
       "email": "alex8020@gmail.com",
       "posts": {
-        1: "Hello",
-        2: "Its me"
+        "one": "Hello",
+        "two": "Its me"
       },
       
     }

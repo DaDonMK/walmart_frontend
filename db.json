@@ -2,12 +2,7 @@
   "users": {
     "Alex": {
       "username": "alex8020",
-      "email": "alex8020@gmail.com",
-      "posts": {
-        "one": "Hello",
-        "two": "Its me"
-      },
-      
+      "email": "alex8020@gmail.com",  
     }
   }
 }

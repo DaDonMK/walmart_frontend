@@ -13,8 +13,20 @@
     "name" : "Max",
     "username" : "maxrules",
     "email": "maxrules@yahoo.com"
-   }
+   },
+    
+   {"id" : 3,
+    "name" : "Jessica",
+    "username" : "jessiqaz",
+    "email": "jessica.908@yahoo.com"
+   },
    
+    {"id" : 4,
+    "name" : "Clio",
+    "username" : "clionoel1700",
+    "email": "clionoel10@hotmail.com"
+   }
+    
   ],
 
   "posts": [
@@ -22,15 +34,70 @@
         {
         "id": 1,
         "userId": 1,
-        "title": "hello",
+        "title": "My first.",
         "body": "My first post!"
         },
   
         {
         "id": 2,
         "userId": 1,
-        "title": "second post",
+        "title": "My second. post",
         "body": "My second post!"
+        },
+        
+    {
+        "id": 3,
+        "userId": 2,
+        "title": "International Women's day",
+        "body": "Hey everyone! Remember to be thankful for the women in your life."
+        },
+    {
+        "id": 4,
+        "userId": 2,
+        "title": "My dog gave birth",
+        "body": "My poodle just had twins!"
+        },
+    {
+        "id": 5,
+        "userId": 2,
+        "title": "My dog died",
+        "body": "unfortunately, my dog didn't make it after giving birth :("
+        },
+    {
+        "id": 6,
+        "userId": 3,
+        "title": "Where do i get my name?",
+        "body": "My mom's best friend in high school was named Jessica Day. I am named after her."
+        },
+    {
+        "id": 7,
+        "userId": 3,
+        "title": "spam post",
+        "body": "This is a test! - Jessica"
+        },
+    {
+        "id": 8,
+        "userId": 3,
+        "title": "Ukraine",
+        "body": "Does anyone know of any credible donation sites to help the ukrainians?"
+        },
+    {
+        "id": 9,
+        "userId": 3,
+        "title": "Blood drive for ukraine",
+        "body": "Hey ya'll, I'm starting a blood drive for ukraine. Details will be posted soon."
+        },
+    {
+        "id": 10,
+        "userId": 4,
+        "title": "New Job!",
+        "body": "I just got a new job at amazon as a principal engineer!"
+        },
+    {
+        "id": 11,
+        "userId": 4,
+        "title": "Lost Job!",
+        "body": "I just lost my job at Amazon when my boss found me sleeping"
         }
   ],
   
@@ -55,6 +122,26 @@
       "id": 4,
       "postId": 1,
       "body": "Bad post!"
+    },
+    {
+      "id": 5,
+      "postId": 8,
+      "body": "Yeah, ill DM you"
+    },
+    {
+      "id": 6,
+      "postId": 8,
+      "body": "LMK if you find something."
+    },
+    {
+      "id": 7,
+      "postId": 11,
+      "body": "Be carefil next time lol"
+    },
+    {
+      "id": 8,
+      "postId": 6,
+      "body": "Cool fact."
     }
     
   ],

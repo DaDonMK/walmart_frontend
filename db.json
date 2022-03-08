@@ -2,34 +2,38 @@
   
   "users" : [
   
-    {"Alex": {
-       "posts": [
-          {
-          "id": 1,
-          "title": "hello",
-          "comments": [{
-            "id" : 1,
-            "content" : "i like this post!"
-          }]},
-    
-          {
-          "id": 2,
-          "title": "second post",
-          "comments": [{
-            "id" : 1,
-            "content" : "he actually loves this post!"
-          },
+    {"name" : "Alex",
+    "username" : "alex8020",
+    "email": "alex8020@gmail.com",
+    "posts": [
+        {
+        "id": 1,
+        "title": "hello",
+        "comments": [{
+          "id" : 1,
+          "content" : "i like this post!"
+        }]},
   
-          {
-            "id" : 2,
-            "content" : "She actually hates everything?"
-          }]}
+        {
+        "id": 2,
+        "title": "second post",
+        "comments": [{
+          "id" : 1,
+          "content" : "he actually loves this post!"
+        },
+
+        {
+          "id" : 2,
+          "content" : "She actually hates everything?"
+        }]}
         
-        ]
-    }},
+     ]
+    },
     
-    {"Max": {
-      "posts": [
+    {"name" : "Max",
+    "username" : "maxrules",
+    "email": "maxrules@yahoo.com",
+     "posts": [
          {
          "id": 1,
          "title": "hello",
@@ -51,8 +55,8 @@
            "content" : "She actually hates everything?"
          }]}
        
-       ]
-   }}
+     ]
+   }
    
   ]
   

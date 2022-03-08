@@ -1,4 +1,3 @@
-
 {
   
   "users" : [
@@ -173,7 +172,36 @@
       "title": "TEXAS",
       "userId": 2,
       "profile_pic": "https://thumbnails.texastribune.org/HC4iZo8yPsbVf_ud-DGSm_ntcns=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/files/216c8fedb9f37b011cc98780a849aa0a/Welcome_to_Texas_Famartin_Wiki.jpgg"
+    },
+
+    {
+      "id": 5,
+      "title": "RESTAURANTS",
+      "userId": 2,
+      "profile_pic": "https://media.architecturaldigest.com/photos/590cc6c3b3064307ffee59a4/master/w_3000,h_2000,c_limit/Tallest%20Restaurants%20in%20the%20World%207.jpg"
+    },
+
+    {
+      "id": 6,
+      "title": "ATTRACTIONS",
+      "userId": 2,
+      "profile_pic": "https://www.planetware.com/photos-large/I/italy-colosseum-day.jpg"
+    },
+
+    {
+      "id": 7,
+      "title": "ATTRACTIONS",
+      "userId": 3,
+      "profile_pic": "https://www.planetware.com/photos-large/I/italy-colosseum-day.jpg"
+    },
+
+    {
+      "id": 8,
+      "title": "FORTUNE 500",
+      "userId": 3,
+      "profile_pic": "https://blog.equinix.com/wp-content/uploads/2021/06/F500_feature.jpg"
     } 
+
 
   ],
 

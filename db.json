@@ -21,12 +21,14 @@
       
         {
         "id": 1,
+        "userId": 1,
         "title": "hello",
         "body": "My first post!"
         },
   
         {
         "id": 2,
+        "userId": 2,
         "title": "second post",
         "body": "My second post!"
         }

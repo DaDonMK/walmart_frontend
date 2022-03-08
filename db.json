@@ -1,3 +1,4 @@
+
 {
   
   "users" : {
@@ -6,7 +7,7 @@
        "posts": [
           {
           "id": 1,
-          "title": "hello"
+          "title": "hello",
           "comments": [{
             "id" : 1,
             "content" : "i like this post!"
@@ -14,7 +15,7 @@
     
           {
           "id": 2,
-          "title": "second post"
+          "title": "second post",
           "comments": [{
             "id" : 1,
             "content" : "he actually loves this post!"
@@ -23,7 +24,7 @@
           {
             "id" : 2,
             "content" : "She actually hates everything?"
-          }]},
+          }]}
         
         ]
     }

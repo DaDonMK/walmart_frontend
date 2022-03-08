@@ -18,7 +18,6 @@
 
   "posts": [
 
-      
         {
         "id": 1,
         "userId": 1,
@@ -32,6 +31,31 @@
         "title": "second post",
         "body": "My second post!"
         }
+  ],
+  
+  "comments": [
+  
+    {
+      "id": 1,
+      "postId": 1,
+      "body": "Great post!"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "body": "Awesome post!"
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "body": "Good post!"
+    },
+    {
+      "id": 4,
+      "postId": 1,
+      "body": "Bad post!"
+    }
+    
   ]
   
 }

@@ -36,22 +36,18 @@
   "comments": [
   
     {
-      "id": 1,
       "postId": 1,
       "body": "Great post!"
     },
     {
-      "id": 2,
       "postId": 2,
       "body": "Awesome post!"
     },
     {
-      "id": 3,
       "postId": 2,
       "body": "Good post!"
     },
     {
-      "id": 4,
       "postId": 1,
       "body": "Bad post!"
     }

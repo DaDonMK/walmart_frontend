@@ -1,8 +1,5 @@
 {
   "users": {
-    "Alex": {
-      "username": "alex8020",
-      "email": "alex8020@gmail.com",  
-    }
+    "Alex": "hello"
   }
 }

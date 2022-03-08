@@ -27,7 +27,7 @@
   
         {
         "id": 2,
-        "userId": 2,
+        "userId": 1,
         "title": "second post",
         "body": "My second post!"
         }
@@ -42,12 +42,12 @@
     },
     {
       "id": 2,
-      "postId": 1,
+      "postId": 2,
       "body": "Awesome post!"
     },
     {
       "id": 3,
-      "postId": 1,
+      "postId": 2,
       "body": "Good post!"
     },
     {
